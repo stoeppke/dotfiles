@@ -249,6 +249,9 @@ defaults write com.apple.dock autohide -bool true
 # 10: Put display to sleep
 # 11: Launchpad
 # 12: Notification Center
+# 524288: Modifier alt
+# 1048576: Modifier cmd 
+# bl-corner: below left corner
 # Top left screen corner → Sleep
 defaults write com.apple.dock wvous-tl-corner -int 10
 defaults write com.apple.dock wvous-tl-modifier -int 0
