@@ -39,7 +39,24 @@ brew install \
     terraform `# Tool to build, change, and version infrastructure` \
     vault `# Secures, stores, and tightly controls access to secrets` \
     fzf `# Command-line fuzzy finder written in Go` \
-    parallel `# Shell command parallelization utility`
+    parallel `# Shell command parallelization utility` \
+    grc `# generic colouriser` \
+    htop \
+    ddrescue \
+    exiftool \
+    ffmpeg \
+    grep \
+    hub `# github ineraction via cli` \
+    iperf3 `# network bandwith testing tool` \
+    lorem ` # lorem ipsum generator` \
+    nmap `# Port scanning utility for large networks` \
+    node \
+    pdfgrep \
+    r \
+    speedtest-cli \
+    httrack `# offline browser : copy websites to a local directory` \
+    tmux `# terminal emulator` \
+    rsync `# update version`
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
@@ -58,19 +75,21 @@ fish -c "fisher add ansible-completion"
 fish -c "fisher add jethrokuan/fzf"
 fish -c "fisher add derphilipp/enter-docker-fzf"
 
+# oh-my-fish install
+curl -L https://get.oh-my.fish > install
+fish install --noninteractive --path=~/.local/share/omf --config=~/.config/omf
+fish -c 'omf install docker-machine fzf grc'
+
 brew cask install \
     docker \
     java \
-    visual-studio-code 
-while ! brew cask install virtualbox; do
-    echo "open/reopen System Preferences → Security & Privacy → General and allow Oracle kernel addon"
-    read -p "Do you wish to resume install (y/n)?" yn
-    case $yn in
-        [Yy]* ) echo "restarting vbox install";;
-        [Nn]* ) exit;;
-        * ) echo "Please answer y or n.";;
-    esac
-done
+    virtualbox \
+    visual-studio-code \
+    rstudio `# ide for r-language` \
+    wireshark `# network package inspector` \
+    xquartz `# missing x11 for osx` \
+    rowanj-gitx `# graphical git log viewer` \
+    tunnelblick `# open-vpn gui`
 
 # Equivalent of VS [gui] Command Palette  "Shell command: Install 'code' command in PATH"
 ln -sf /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
@@ -79,7 +98,7 @@ code --install-extension lunaryorn.fish-ide
 code --install-extension PeterJausovec.vscode-docker
 code --install-extension haaaad.ansible
 
-ln -sf $(pwd)/prefs/osx/visual-studio-code/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
+# ln -sf $(pwd)/prefs/osx/visual-studio-code/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
 
 # only installed when osx, so not in the base template
 git config --global core.editor "code -w -n"
@@ -87,9 +106,10 @@ git config --global core.pager "diff-so-fancy | less --tabs=1,5 -R"
 git config --global pull.rebase true
 git config --global rebase.autoStash true
 
-cd src/listrepo
-./build.sh
-cd ../../
+# ???
+# cd src/listrepo
+# ./build.sh
+# cd ../../
 
 echo '1. Execute this to add ssh key (w/passphrase) to keychain:  ssh-add -K ~/.ssh/id_rsa'
 echo '2. Then git config --global user.name "Your Name"'
