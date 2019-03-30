@@ -29,27 +29,17 @@ brew install \
     ruby \
     go \
     python \
-    # jd: lightweight and flexible command-line JSON processor
-    jq \ 
-    # ansible: software provisioning, configuration management, and application deployment tool
-    ansible \
+    jq `# lightweight and flexible command-line JSON processor` \ 
+    ansible `# software provisioning, configuration management, and application deployment tool` \
     awscli \
-    # csshX: Cluster SSH tool for Mac OS X Termial.app
-    csshX \
-    # hub: an extension to command-line git
-    hub \ 
-    # diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs
-    diff-so-fancy \ 
-    # packer: Tool for creating identical machine images for multiple platforms
-    packer \ 
-    # terraform: Tool to build, change, and version infrastructure
-    terraform \ 
-    # vault: Secures, stores, and tightly controls access to secrets
-    vault \ 
-    # fzf: Command-line fuzzy finder written in Go
-    fzf \ 
-    # parallel: Shell command parallelization utility
-    parallel 
+    csshX `# Cluster SSH tool for Mac OS X Termial.app` \
+    hub `# an extension to command-line git` \ 
+    diff-so-fancy `# Good-lookin' diffs. Actually… nah… The best-lookin' diffs` \ 
+    packer `# Tool for creating identical machine images for multiple platforms` \ 
+    terraform `# Tool to build, change, and version infrastructure` \ 
+    vault `# Secures, stores, and tightly controls access to secrets` \ 
+    fzf `# Command-line fuzzy finder written in Go` \ 
+    parallel `# Shell command parallelization utility`
 
 # QuickLook and Spotlight addons
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
