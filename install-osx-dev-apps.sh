@@ -41,6 +41,22 @@ brew install \
     fzf `# Command-line fuzzy finder written in Go` \
     parallel `# Shell command parallelization utility` \
     grc `# generic colouriser` \
+    htop \
+    ddrescue \
+    exiftool \
+    ffmpeg \
+    grep \
+    hub `# github ineraction via cli` \
+    iperf3 `# network bandwith testing tool` \
+    lorem ` # lorem ipsum generator` \
+    nmap `# Port scanning utility for large networks` \
+    node \
+    pdfgrep \
+    r \
+    speedtest-cli \
+    httrack `# offline browser : copy websites to a local directory` \
+    tmux `# terminal emulator` \
+    rsync `# update version`
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
@@ -68,7 +84,12 @@ brew cask install \
     docker \
     java \
     virtualbox \
-    visual-studio-code 
+    visual-studio-code \
+    rstudio `# ide for r-language` \
+    wireshark `# network package inspector` \
+    xquartz `# missing x11 for osx` \
+    rowanj-gitx `# graphical git log viewer` \
+    tunnelblick `# open-vpn gui`
 
 # Equivalent of VS [gui] Command Palette  "Shell command: Install 'code' command in PATH"
 ln -sf /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
