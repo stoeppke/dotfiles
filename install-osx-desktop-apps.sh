@@ -14,4 +14,11 @@ brew cask install \
     paw \
     slack \
     virtualbox \
-    spectacle
+    spectacle \
+    vlc
+
+brew install \
+    shairport-sync \
+    mupen64plus `# Cross-platform plugin-based N64 emulator` \
+    youtube-dl `# downlaod youtube videos` \
+    cmatrix `# which one do you take`
