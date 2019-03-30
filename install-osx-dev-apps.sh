@@ -29,16 +29,16 @@ brew install \
     ruby \
     go \
     python \
-    jq `# lightweight and flexible command-line JSON processor` \ 
+    jq `# lightweight and flexible command-line JSON processor` \
     ansible `# software provisioning, configuration management, and application deployment tool` \
     awscli \
     csshX `# Cluster SSH tool for Mac OS X Termial.app` \
-    hub `# an extension to command-line git` \ 
-    diff-so-fancy `# Good-lookin' diffs. Actually… nah… The best-lookin' diffs` \ 
-    packer `# Tool for creating identical machine images for multiple platforms` \ 
-    terraform `# Tool to build, change, and version infrastructure` \ 
-    vault `# Secures, stores, and tightly controls access to secrets` \ 
-    fzf `# Command-line fuzzy finder written in Go` \ 
+    hub `# an extension to command-line git` \
+    diff-so-fancy `# Good-lookin' diffs. Actually… nah… The best-lookin' diffs` \
+    packer `# Tool for creating identical machine images for multiple platforms` \
+    terraform `# Tool to build, change, and version infrastructure` \
+    vault `# Secures, stores, and tightly controls access to secrets` \
+    fzf `# Command-line fuzzy finder written in Go` \
     parallel `# Shell command parallelization utility`
 
 # QuickLook and Spotlight addons
