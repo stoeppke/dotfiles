@@ -8,10 +8,9 @@ brew cask install \
     arq \
     bartender \
     carbon-copy-cloner \
-    cd-to \
+    cd-to-terminal \
     dropbox \
     nvalt \
     paw \
     slack \
-    virtualbox \
     spectacle
