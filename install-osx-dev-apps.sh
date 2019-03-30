@@ -39,7 +39,8 @@ brew install \
     terraform `# Tool to build, change, and version infrastructure` \
     vault `# Secures, stores, and tightly controls access to secrets` \
     fzf `# Command-line fuzzy finder written in Go` \
-    parallel `# Shell command parallelization utility`
+    parallel `# Shell command parallelization utility` \
+    grc `# generic colouriser` \
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
@@ -57,6 +58,11 @@ fish -c "fisher add barnybug/docker-fish-completion"
 fish -c "fisher add ansible-completion"
 fish -c "fisher add jethrokuan/fzf"
 fish -c "fisher add derphilipp/enter-docker-fzf"
+
+# oh-my-fish install
+curl -L https://get.oh-my.fish > install
+fish install --noninteractive --path=~/.local/share/omf --config=~/.config/omf
+fish -c 'omf install docker-machine fzf grc'
 
 brew cask install \
     docker \
