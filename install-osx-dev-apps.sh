@@ -41,8 +41,7 @@ brew install \
     fzf `# Command-line fuzzy finder written in Go` \
     parallel `# Shell command parallelization utility`
 
-# QuickLook and Spotlight addons
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
 # install fish shell
 brew install \
