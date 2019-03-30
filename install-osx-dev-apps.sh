@@ -71,7 +71,7 @@ code --install-extension TeddyDD.fish
 code --install-extension PeterJausovec.vscode-docker
 code --install-extension haaaad.ansible
 
-ln -sf $(pwd)/prefs/osx/visual-studio-code/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
+# ln -sf $(pwd)/prefs/osx/visual-studio-code/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
 
 # only installed when osx, so not in the base template
 git config --global core.editor "code -w -n"
@@ -79,9 +79,10 @@ git config --global core.pager "diff-so-fancy | less --tabs=1,5 -R"
 git config --global pull.rebase true
 git config --global rebase.autoStash true
 
-cd src/listrepo
-./build.sh
-cd ../../
+# ???
+# cd src/listrepo
+# ./build.sh
+# cd ../../
 
 echo '1. Execute this to add ssh key (w/passphrase) to keychain:  ssh-add -K ~/.ssh/id_rsa'
 echo '2. Then git config --global user.name "Your Name"'
