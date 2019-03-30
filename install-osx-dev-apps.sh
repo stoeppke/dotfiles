@@ -29,18 +29,29 @@ brew install \
     ruby \
     go \
     python \
-    jq \
+    # jd: lightweight and flexible command-line JSON processor
+    jq \ 
+    # ansible: software provisioning, configuration management, and application deployment tool
     ansible \
     awscli \
+    # csshX: Cluster SSH tool for Mac OS X Termial.app
     csshX \
-    hub \
-    diff-so-fancy \
-    packer \
-    terraform \
+    # hub: an extension to command-line git
+    hub \ 
+    # diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs
+    diff-so-fancy \ 
+    # packer: Tool for creating identical machine images for multiple platforms
+    packer \ 
+    # terraform: Tool to build, change, and version infrastructure
+    terraform \ 
+    # vault: Secures, stores, and tightly controls access to secrets
     vault \ 
-    fzf \
-    parallel
+    # fzf: Command-line fuzzy finder written in Go
+    fzf \ 
+    # parallel: Shell command parallelization utility
+    parallel 
 
+# QuickLook and Spotlight addons
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
 # install fish shell
