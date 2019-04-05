@@ -1001,7 +1001,7 @@ Restart Session</string>
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/stoeppke</string>
+			<string>$HOME</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1584,7 +1584,7 @@ Restart Session</string>
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/stoeppke</string>
+			<string>$HOME</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -2212,7 +2212,7 @@ Restart Session</string>
 			<key>Window Type</key>
 			<integer>1</integer>
 			<key>Working Directory</key>
-			<string>/Users/stoeppke</string>
+			<string>$HOME</string>
 		</dict>
 	</array>
 	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
@@ -3014,7 +3014,7 @@ Restart Session</string>
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Fish</string>
@@ -3024,111 +3024,12 @@ Restart Session</string>
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-												</array>
+													<string>$HOME</string>
+													</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -3148,15 +3049,15 @@ Restart Session</string>
 												<key>Session GUID</key>
 												<string>465D1FAD-F773-42EC-9AEC-AC2C1571A735</string>
 												<key>Session Name</key>
-												<string>iftop  /Users/stoeppke</string>
+												<string>iftop  $HOME</string>
 												<key>Session Window Title</key>
-												<string>iftop  /Users/stoeppke</string>
+												<string>iftop  $HOME</string>
 												<key>Shell Integration Ever Used</key>
 												<false/>
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/stoeppke</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -3759,7 +3660,7 @@ Restart Session</string>
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Fish</string>
@@ -3769,13 +3670,12 @@ Restart Session</string>
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -3795,15 +3695,15 @@ Restart Session</string>
 												<key>Session GUID</key>
 												<string>1CFE7E3C-AF18-4468-B344-FB447AF16778</string>
 												<key>Session Name</key>
-												<string>fish  /Users/stoeppke</string>
+												<string>fish  $HOME</string>
 												<key>Session Window Title</key>
-												<string>fish  /Users/stoeppke</string>
+												<string>fish  $HOME</string>
 												<key>Shell Integration Ever Used</key>
 												<false/>
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/stoeppke</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -4409,7 +4309,7 @@ Restart Session</string>
 															<key>Window Type</key>
 															<integer>0</integer>
 															<key>Working Directory</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Bookmark Name</key>
 														<string>Fish</string>
@@ -4419,111 +4319,12 @@ Restart Session</string>
 														<array/>
 														<key>Directories</key>
 														<array>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Hosts</key>
 														<array>
@@ -4628,15 +4429,15 @@ Restart Session</string>
 														<key>Session GUID</key>
 														<string>C3DE0F44-613D-4166-A451-8B5208836A32</string>
 														<key>Session Name</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Session Window Title</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Shell Integration Ever Used</key>
 														<false/>
 														<key>Substitutions</key>
 														<dict/>
 														<key>Working Directory</key>
-														<string>/Users/stoeppke</string>
+														<string>$HOME</string>
 													</dict>
 													<key>View Type</key>
 													<string>SessionView</string>
@@ -5239,7 +5040,7 @@ Restart Session</string>
 															<key>Window Type</key>
 															<integer>0</integer>
 															<key>Working Directory</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Bookmark Name</key>
 														<string>Fish</string>
@@ -5249,111 +5050,111 @@ Restart Session</string>
 														<array/>
 														<key>Directories</key>
 														<array>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Hosts</key>
 														<array>
@@ -5422,15 +5223,15 @@ Restart Session</string>
 														<key>Session GUID</key>
 														<string>1971E64F-0ADB-4476-949C-1DFBBDAFA388</string>
 														<key>Session Name</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Session Window Title</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Shell Integration Ever Used</key>
 														<false/>
 														<key>Substitutions</key>
 														<dict/>
 														<key>Working Directory</key>
-														<string>/Users/stoeppke</string>
+														<string>$HOME</string>
 													</dict>
 													<key>View Type</key>
 													<string>SessionView</string>
@@ -6072,7 +5873,7 @@ Restart Session</string>
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Fish</string>
@@ -6082,57 +5883,57 @@ Restart Session</string>
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS</string>
@@ -6177,11 +5978,11 @@ Restart Session</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents</string>
 													<string>/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
 												</array>
 												<key>Environment</key>
 												<dict>
@@ -6206,15 +6007,15 @@ Restart Session</string>
 												<key>Session GUID</key>
 												<string>8E2BAF98-A1A9-4A9F-8CD8-5E503A83592E</string>
 												<key>Session Name</key>
-												<string>top  /Users/stoeppke</string>
+												<string>top  $HOME</string>
 												<key>Session Window Title</key>
-												<string>top  /Users/stoeppke</string>
+												<string>top  $HOME</string>
 												<key>Shell Integration Ever Used</key>
 												<false/>
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/stoeppke</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -6819,7 +6620,7 @@ Restart Session</string>
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Fish</string>
@@ -6829,35 +6630,35 @@ Restart Session</string>
 												<array/>
 												<key>Directories</key>
 												<array>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
+													<string>$HOME</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/stoeppke</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -6877,15 +6678,15 @@ Restart Session</string>
 												<key>Session GUID</key>
 												<string>D46AACF9-2744-4524-8894-0BBE0C2990D2</string>
 												<key>Session Name</key>
-												<string>fish  /Users/stoeppke</string>
+												<string>fish  $HOME</string>
 												<key>Session Window Title</key>
-												<string>fish  /Users/stoeppke</string>
+												<string>fish  $HOME</string>
 												<key>Shell Integration Ever Used</key>
 												<false/>
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/stoeppke</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -7493,7 +7294,7 @@ Restart Session</string>
 															<key>Window Type</key>
 															<integer>0</integer>
 															<key>Working Directory</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Bookmark Name</key>
 														<string>Fish</string>
@@ -7503,111 +7304,111 @@ Restart Session</string>
 														<array/>
 														<key>Directories</key>
 														<array>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Hosts</key>
 														<array/>
@@ -7627,15 +7428,15 @@ Restart Session</string>
 														<key>Session GUID</key>
 														<string>EEE09457-8B89-4D36-8D64-583804FEA558</string>
 														<key>Session Name</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Session Window Title</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Shell Integration Ever Used</key>
 														<false/>
 														<key>Substitutions</key>
 														<dict/>
 														<key>Working Directory</key>
-														<string>/Users/stoeppke</string>
+														<string>$HOME</string>
 													</dict>
 													<key>View Type</key>
 													<string>SessionView</string>
@@ -8238,7 +8039,7 @@ Restart Session</string>
 															<key>Window Type</key>
 															<integer>0</integer>
 															<key>Working Directory</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Bookmark Name</key>
 														<string>Fish</string>
@@ -8248,39 +8049,39 @@ Restart Session</string>
 														<array/>
 														<key>Directories</key>
 														<array>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Hosts</key>
 														<array/>
@@ -8300,15 +8101,15 @@ Restart Session</string>
 														<key>Session GUID</key>
 														<string>0AAF370E-9C55-41E2-8DAF-CEC77FD78654</string>
 														<key>Session Name</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Session Window Title</key>
-														<string>fish  /Users/stoeppke</string>
+														<string>fish  $HOME</string>
 														<key>Shell Integration Ever Used</key>
 														<false/>
 														<key>Substitutions</key>
 														<dict/>
 														<key>Working Directory</key>
-														<string>/Users/stoeppke</string>
+														<string>$HOME</string>
 													</dict>
 													<key>View Type</key>
 													<string>SessionView</string>
@@ -8933,7 +8734,7 @@ Restart Session</string>
 															<key>Window Type</key>
 															<integer>0</integer>
 															<key>Working Directory</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Bookmark Name</key>
 														<string>Fish</string>
@@ -8943,111 +8744,111 @@ Restart Session</string>
 														<array/>
 														<key>Directories</key>
 														<array>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
+															<string>$HOME</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/stoeppke</string>
+															<string>$HOME</string>
 														</dict>
 														<key>Hosts</key>
 														<array>
@@ -9110,15 +8911,15 @@ Restart Session</string>
 														<key>Session GUID</key>
 														<string>78A914B4-EEA0-49B0-AE4A-9E5C2CB37379</string>
 														<key>Session Name</key>
-														<string>watch  /Users/stoeppke</string>
+														<string>watch  $HOME</string>
 														<key>Session Window Title</key>
-														<string>watch  /Users/stoeppke</string>
+														<string>watch  $HOME</string>
 														<key>Shell Integration Ever Used</key>
 														<false/>
 														<key>Substitutions</key>
 														<dict/>
 														<key>Working Directory</key>
-														<string>/Users/stoeppke</string>
+														<string>$HOME</string>
 													</dict>
 													<key>View Type</key>
 													<string>SessionView</string>
@@ -9724,7 +9525,7 @@ Restart Session</string>
 																	<key>Window Type</key>
 																	<integer>0</integer>
 																	<key>Working Directory</key>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
 																</dict>
 																<key>Bookmark Name</key>
 																<string>Fish</string>
@@ -9734,111 +9535,111 @@ Restart Session</string>
 																<array/>
 																<key>Directories</key>
 																<array>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
 																</array>
 																<key>Environment</key>
 																<dict>
 																	<key>PWD</key>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
 																</dict>
 																<key>Hosts</key>
 																<array>
@@ -9913,15 +9714,15 @@ Restart Session</string>
 																<key>Session GUID</key>
 																<string>728740B7-9AB7-4EBD-9920-14ADE3DF025C</string>
 																<key>Session Name</key>
-																<string>fish  /Users/stoeppke</string>
+																<string>fish  $HOME</string>
 																<key>Session Window Title</key>
-																<string>fish  /Users/stoeppke</string>
+																<string>fish  $HOME</string>
 																<key>Shell Integration Ever Used</key>
 																<false/>
 																<key>Substitutions</key>
 																<dict/>
 																<key>Working Directory</key>
-																<string>/Users/stoeppke</string>
+																<string>$HOME</string>
 															</dict>
 															<key>View Type</key>
 															<string>SessionView</string>
@@ -10526,7 +10327,7 @@ Restart Session</string>
 																	<key>Window Type</key>
 																	<integer>0</integer>
 																	<key>Working Directory</key>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
 																</dict>
 																<key>Bookmark Name</key>
 																<string>Fish</string>
@@ -10536,111 +10337,111 @@ Restart Session</string>
 																<array/>
 																<key>Directories</key>
 																<array>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
+																	<string>$HOME</string>
 																</array>
 																<key>Environment</key>
 																<dict>
 																	<key>PWD</key>
-																	<string>/Users/stoeppke</string>
+																	<string>$HOME</string>
 																</dict>
 																<key>Hosts</key>
 																<array>
@@ -10727,15 +10528,15 @@ Restart Session</string>
 																<key>Session GUID</key>
 																<string>7EBCD324-0906-47E5-BFA7-5532D344E473</string>
 																<key>Session Name</key>
-																<string>prettyping  /Users/stoeppke</string>
+																<string>prettyping  $HOME</string>
 																<key>Session Window Title</key>
-																<string>prettyping  /Users/stoeppke</string>
+																<string>prettyping  $HOME</string>
 																<key>Shell Integration Ever Used</key>
 																<false/>
 																<key>Substitutions</key>
 																<dict/>
 																<key>Working Directory</key>
-																<string>/Users/stoeppke</string>
+																<string>$HOME</string>
 															</dict>
 															<key>View Type</key>
 															<string>SessionView</string>
