@@ -89,7 +89,8 @@ brew cask install \
     wireshark `# network package inspector` \
     xquartz `# missing x11 for osx` \
     rowanj-gitx `# graphical git log viewer` \
-    tunnelblick `# open-vpn gui`
+    tunnelblick `# open-vpn gui` \
+    iterm2 `# OSX terminal emulator`
 
 # Equivalent of VS [gui] Command Palette  "Shell command: Install 'code' command in PATH"
 ln -sf /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
