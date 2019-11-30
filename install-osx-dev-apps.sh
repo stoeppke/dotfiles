@@ -53,6 +53,7 @@ brew install \
     httrack `# offline browser : copy websites to a local directory` \
     tmux `# terminal emulator` \
     rsync `# update version` \
+    vim \
     homebrew/cask-fonts/font-firacode-nerd-font `# fancy font for coding`
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo
