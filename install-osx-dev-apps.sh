@@ -20,8 +20,6 @@ fi
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-brew tap caskroom/cask
-
 brew install \
     git \
     ruby \
