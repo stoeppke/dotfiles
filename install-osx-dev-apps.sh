@@ -22,13 +22,13 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 brew update && brew cleanup && brew cask cleanup
 
-brew tap caskroom/cask
 
 brew install \
     git \
     ruby \
     go \
     python \
+    python-pip \
     jq \
     ansible \
     awscli \
@@ -39,7 +39,10 @@ brew install \
     terraform \
     vault \ 
     fzf \
-    parallel
+    parallel \
+    rsync \
+    ffmpeg \
+    vim
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
@@ -62,7 +65,8 @@ brew cask install \
     docker \
     java \
     virtualbox \
-    visual-studio-code 
+    visual-studio-code \
+    iterm2
 
 # Equivalent of VS [gui] Command Palette  "Shell command: Install 'code' command in PATH"
 ln -sf /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
